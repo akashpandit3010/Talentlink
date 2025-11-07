@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/chirag-ferwanis-projects/v0-talent-link-communication-system](https://vercel.com/chirag-ferwanis-projects/v0-talent-link-communication-system)**
+**[[https://vercel.com/chirag-ferwanis-projects/v0-talent-link-communication-system](https://vercel.com/chirag-ferwanis-projects/v0-talent-link-communication-system)](https://talentlinkweb.vercel.app/)**
 
 ## Build your app
 
