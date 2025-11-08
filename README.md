@@ -10,12 +10,6 @@
 This repository will stay in sync with our deployed chats on [v0.app](https://v0.app).
 Any changes we make to our deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
-## Deployment
-
-The Project is live at:
-
-**[[https://vercel.com/chirag-ferwanis-projects/v0-talent-link-communication-system](https://vercel.com/chirag-ferwanis-projects/v0-talent-link-communication-system)](https://talentlinkweb.vercel.app/)**
-
 ## Build your app
 
 Continue building your app on:
